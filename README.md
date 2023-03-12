@@ -6,7 +6,7 @@ I have a technical and economic education, but I always wanted to become a QA en
 Skills:<br/> 
 🔥 YouTrack <br/>
 🔥 Jira <br/>
-🔥 Postman <br/>                             
+🔥 Postman <br/>
 🔥 Git <br/>
 🔥 GitHub <br/>
 🔥 HTML <br/>
